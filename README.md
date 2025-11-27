@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Khalid Asharfi! 👋
 
-<!--
-**khalidasharfi-ai/khalidasharfi-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- Mathematics Graduate (2024)
+- Learning Python & Machine Learning
+- Building AI/ML projects for graduate school
 
-Here are some ideas to get you started:
+## 🔧 Currently Learning
+- Python Programming
+- Machine Learning
+- Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: khalidasharfi.ai.ml@gmail.com
+
+---
+🎯 Goal: Master's in Artificial Intelligence
